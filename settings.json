@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BalajiHighfield.aternos.me:",
+    "ip": "BalajiHighfield.aternos.me:45239:",
     "port": 45239,
     "version": "",
     "try-creative": false
